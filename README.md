@@ -1,5 +1,7 @@
 <!-- ================= HEADER ================= -->
 
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1F,50:172554,100:6D28D9&height=220&section=header&text=SYED%20JAFAR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
